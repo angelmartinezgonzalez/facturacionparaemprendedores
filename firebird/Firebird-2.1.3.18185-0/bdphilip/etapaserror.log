@@ -1,0 +1,6 @@
+
+Etapas
+    SQL failed at row #17 with message "value exceeds the range for valid dates"
+insert into ETAPAS(ETP_ID,PED_ID,ETP_DESCRIPCION,ETP_FECHADE,ETP_FECHAA,ETP_FECHAFIN) values (30,0,'','0000-00-00 00:00','0000-00-00 00:00',NULL)
+    SQL failed at row #18 with message "value exceeds the range for valid dates"
+insert into ETAPAS(ETP_ID,PED_ID,ETP_DESCRIPCION,ETP_FECHADE,ETP_FECHAA,ETP_FECHAFIN) values (31,0,'','0000-00-00 00:00','0000-00-00 00:00',NULL)
